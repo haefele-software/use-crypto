@@ -1,0 +1,19 @@
+{
+  "name": "use-crypto",
+  "version": "0.0.3",
+  "description": "React hooks for all of your cryptology needs.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "react-hooks",
+    "cryptology"
+  ],
+  "author": "harley@haefelesoftware.com",
+  "license": "MIT",
+  "dependencies": {
+    "crypto-js": "^4.0.0"
+  }
+}
